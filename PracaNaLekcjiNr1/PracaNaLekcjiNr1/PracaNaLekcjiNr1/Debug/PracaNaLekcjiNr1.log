@@ -1,0 +1,8 @@
+﻿  PracaNaLekcjiNr1.cpp
+c:\users\mpiaseckisci\desktop\pracanalekcjinr1\pracanalekcjinr1\pracanalekcjinr1\pracanalekcjinr1.cpp(9): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+c:\users\mpiaseckisci\desktop\pracanalekcjinr1\pracanalekcjinr1\pracanalekcjinr1\pracanalekcjinr1.cpp(32): error C2275: "std::string": niedozwolone użycie tego typu jako wyrażenia
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xstring(4373): note: zobacz deklarację „std::string”
+c:\users\mpiaseckisci\desktop\pracanalekcjinr1\pracanalekcjinr1\pracanalekcjinr1\pracanalekcjinr1.cpp(32): error C2146: błąd składniowy: brakuje „)” przed identyfikatorem „tekst”
+c:\users\mpiaseckisci\desktop\pracanalekcjinr1\pracanalekcjinr1\pracanalekcjinr1\pracanalekcjinr1.cpp(32): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „tekst”
+c:\users\mpiaseckisci\desktop\pracanalekcjinr1\pracanalekcjinr1\pracanalekcjinr1\pracanalekcjinr1.cpp(32): error C2062: nieoczekiwany typ "int"
+c:\users\mpiaseckisci\desktop\pracanalekcjinr1\pracanalekcjinr1\pracanalekcjinr1\pracanalekcjinr1.cpp(32): error C2059: błąd składniowy: „)”
